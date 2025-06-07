@@ -43,10 +43,12 @@ Mình thực hiện tạo qua command line
 3. Gám VM vào cùng port group
 Ví dụ:
 - vm1 (Trên ESX1): 10.1.10.2/24
+
 ![image](https://github.com/user-attachments/assets/2897811a-aab8-47a9-a259-222a14a67ae0)
 
 
 - vm2 (Trên ESX2): 10.1.10.3/24
+
 ![image](https://github.com/user-attachments/assets/b3c54db2-5312-49c3-913c-1d140e64953c)
 
 
